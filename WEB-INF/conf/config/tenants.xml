@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TENANTS>
+	<TENANT name="DEFAULT_TENANT">
+		<PRODUCT active="true" name="KnowageBD"/>
+		<PRODUCT active="true" name="KnowageSI"/>
+		<PRODUCT active="true" name="KnowageER"/>
+		<PRODUCT active="true" name="KnowagePM"/>
+		<PRODUCT active="true" name="KnowageLI"/>
+		<PRODUCT active="true" name="KnowagePA"/>
+	</TENANT>
+</TENANTS>
